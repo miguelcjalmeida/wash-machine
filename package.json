@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/miguelcjalmeida/wash-machine/issues"
   },
-  "homepage": "https://github.com/miguelcjalmeida/wash-machine#readme"
+  "homepage": "https://github.com/miguelcjalmeida/wash-machine#readme",
+  "dependencies": {
+    "typescript": "2.3.3"
+  },
+  "devDependencies": {
+    "foreman": "2.0.0"
+  }
 }
