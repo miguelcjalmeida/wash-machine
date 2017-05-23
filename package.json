@@ -1,0 +1,27 @@
+{
+  "name": "wash-machine-app",
+  "version": "1.0.0",
+  "description": "Task manager for helping maximize the efficiency of mass-cleaning clothes in laundry rooms",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelcjalmeida/wash-machine.git"
+  },
+  "keywords": [
+    "task",
+    "manager",
+    "wash",
+    "machine",
+    "laundry",
+    "room"
+  ],
+  "author": "Miguel Almeida <darkmagusbr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelcjalmeida/wash-machine/issues"
+  },
+  "homepage": "https://github.com/miguelcjalmeida/wash-machine#readme"
+}
