@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "strictNullChecks": true,
+    "outDir": "bin/",
+    "removeComments": true,
+    "pretty": true
+  },
+  "files": [
+    "src/server.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
